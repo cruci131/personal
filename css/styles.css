@@ -70,6 +70,11 @@ hr:after {
   position: absolute;
   bottom: 300px;
 }
+.mountain
+{
+  position: relative;
+  top: 100px;
+}
 .top-cloud
 {
   position:relative;
